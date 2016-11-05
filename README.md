@@ -1,8 +1,7 @@
 # Python101
-Introduction to Python
+### Introduction to Python
 
-Shaowu Pan
+  University of Michigan, Ann Arbor 
+##### © 2016 Shaowu Pan
 
-MTech
 
-University of Michigan, Ann Arbor 
