@@ -5,6 +5,7 @@ def myfun(a):
 	return s
 
 pdb.set_trace()
+
 result = myfun(3)
 
 print result
