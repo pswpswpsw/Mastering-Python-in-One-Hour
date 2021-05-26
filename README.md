@@ -2,6 +2,7 @@
 ## Description
 
 This is a Python tutorial I gave in 2016 at a seminar of MTech at the University of Michigan, Ann Arbor.
+
 Please feel free to distribute. Hope you find it useful.
 
 ## What is covered? 
